@@ -8,21 +8,4 @@ Author: Michael Katilevsky
 
 10 August 2017
 
-
-Setup Information:
-  
-Arduino Pins:      Keyboard Function:    Mouse Function:               Other Function:
-     2         =     Esc Key               Scroll Wheel Button           Change from Keyboard to Mouse and vice-versa when pressed for a second or more
-     3         =     Left Arrow            Mouse movement to the left
-     4         =     Spacebar              Right Button
-     5         =     Up Arrow              Mouse movement upwards
-     6         =     Enter                 Left Button
-     7         =     Down Arrow            Mouse movement downwards
-     8         =     Right Arrow           Mouse movement to the right
-
-
-Possible Setup (button positioning and corresponding Arduino pins):
-
-[2] [5]
-[3] [6] [8]
-[4] [7]
+See code for detailed setup information.
