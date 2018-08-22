@@ -43,7 +43,7 @@ int mouseX[] = {-1, 0, 0, 0, 0, 1};   // X-axis displacement per button press
 
 int mouseY[] = {0, 0, -1, 0, 1, 0};   // Y-axis displacement per button press
 
-boolean isKeyboard;  // Allows the device to emulate a keyboard or a mouse at a time
+boolean isKeyboard;  // Allows the device to emulate a keyboard or a mouse interchangeably
 
 boolean middleMouse; // is true when the "scroll" button is clicked, false when clicked again
 
